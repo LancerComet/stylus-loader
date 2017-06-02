@@ -1,6 +1,6 @@
 {
   "name": "perfect-stylus-loader",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Stylus loader for webpack with default module resoving behevior.",
   "main": "index.js",
   "files": [
